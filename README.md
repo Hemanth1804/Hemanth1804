@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi there, I'm Hemanth Naik! 
 
-<!--
-**Hemanth1804/Hemanth1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a passionate software developer currently exploring everything Java, Python, and Frontend development.  
+🎓 I'm pursuing my degree at **Mangalore Institute of Technology and Engineering (MITE) with a CGPA of 8.55.  
+🛠️ I love building real-world projects, contributing to open source, and learning new tech.
 
-Here are some ideas to get you started:
+🧰 Tech Stack
+- 💻 Java, Python, C, JavaScript
+- 🌐 HTML, CSS, React
+- 🛢️ MySQL
+- 🧠 Working on AI/ML projects (presentation evaluator, handwriting recognition, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Projects I’ve Worked On
+- AI Presentation System – Gives live feedback & questions for student presentations  
+- Doctor Prescription Reader– Classifies info from handwritten prescriptions  
+- DataStructure Visualizer - This is helps to the beginner for want to learn datastructure (still working)
+
+ 🤝 I’m Looking To Collaborate On
+- Open source Java and Python projects  
+- Web apps with React and Firebase  
+- AI/ML research-based mini-projects
+
+📫 How to reach me
+- 🔗 [GitHub](https://github.com/Hemanth1804)
+- 📧 Email: hemanthnaik1804@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/hemanth-naik-0853a6269
+
+💡 Fun Fact
+I love debugging late at night and I believe in **learning by building**!
+
