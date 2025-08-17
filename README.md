@@ -24,6 +24,12 @@
 - 🔗 [GitHub](https://github.com/Hemanth1804)
 - 📧 Email: hemanthnaik1804@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/hemanth-naik-0853a6269
+- 
+👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hemanth1804&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
 
 💡 Fun Fact
 I love debugging late at night and I believe in **learning by building**!
